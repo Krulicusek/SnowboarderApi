@@ -1,0 +1,12 @@
+C:\Users\kubii\Desktop\projects\SnowboarderAPI\SnowboarderModels\bin\Debug\net6.0\SnowboarderModels.deps.json
+C:\Users\kubii\Desktop\projects\SnowboarderAPI\SnowboarderModels\bin\Debug\net6.0\SnowboarderModels.dll
+C:\Users\kubii\Desktop\projects\SnowboarderAPI\SnowboarderModels\bin\Debug\net6.0\SnowboarderModels.pdb
+C:\Users\kubii\Desktop\projects\SnowboarderAPI\SnowboarderModels\obj\Debug\net6.0\SnowboarderModels.csproj.AssemblyReference.cache
+C:\Users\kubii\Desktop\projects\SnowboarderAPI\SnowboarderModels\obj\Debug\net6.0\SnowboarderModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kubii\Desktop\projects\SnowboarderAPI\SnowboarderModels\obj\Debug\net6.0\SnowboarderModels.AssemblyInfoInputs.cache
+C:\Users\kubii\Desktop\projects\SnowboarderAPI\SnowboarderModels\obj\Debug\net6.0\SnowboarderModels.AssemblyInfo.cs
+C:\Users\kubii\Desktop\projects\SnowboarderAPI\SnowboarderModels\obj\Debug\net6.0\SnowboarderModels.csproj.CoreCompileInputs.cache
+C:\Users\kubii\Desktop\projects\SnowboarderAPI\SnowboarderModels\obj\Debug\net6.0\SnowboarderModels.dll
+C:\Users\kubii\Desktop\projects\SnowboarderAPI\SnowboarderModels\obj\Debug\net6.0\refint\SnowboarderModels.dll
+C:\Users\kubii\Desktop\projects\SnowboarderAPI\SnowboarderModels\obj\Debug\net6.0\SnowboarderModels.pdb
+C:\Users\kubii\Desktop\projects\SnowboarderAPI\SnowboarderModels\obj\Debug\net6.0\ref\SnowboarderModels.dll
